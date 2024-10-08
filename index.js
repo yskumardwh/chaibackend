@@ -3,10 +3,10 @@ require('dotenv').config();
 
 const express = require('express'); // require module syntax - commonJS
 //import express from "express" -module JS syntax
-const app = express(); //app is variable
+const app = express(); //app is variable or not
 const port = 4000;
 
-app.get('/', (req, res) => { // '/' is home route
+app.get('/', (req, res) => { // '/' is home route or not
     res.send('Hello World!');
 });
 
