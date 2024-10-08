@@ -1,6 +1,6 @@
 {
   "name": "chaibackend",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "a basic app to deploy",
   "main": "index.js",
   "scripts": {
